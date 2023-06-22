@@ -20,7 +20,7 @@ A Google meet Video chat application built with Express.js, Jvasacript, Socket.i
 ## Tech Stack Used
 - javascript, CSS
 - Node.js, Express.js, Socket.io, WebRTC, jquery
-- some npm packages 
+- npm packages 
 
 ## Screenshots 
 [visit drive for screenshot]()
