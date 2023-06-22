@@ -9,4 +9,18 @@ A Google meet Video chat application built with Express.js, Jvasacript, Socket.i
 - `node_modules`: contains the modules requires for application.
 - `action.html`: contains the home page front-end code.
 - `index.html`: contains the video call page front-end code.
-  
+
+## Features 
+- Real-time Video chat with Audio multiple users.
+- Real-time messaging with users during video chat
+- Screen sharing with users
+- Screen recording option
+- Hand raise option
+
+## Tech Stack Used
+- javascript, CSS
+- Node.js, Express.js, Socket.io, WebRTC, jquery
+
+## Screenshots 
+[visit drive for screenshot]()
+
