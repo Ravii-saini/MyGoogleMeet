@@ -7,6 +7,6 @@ A Google meet Video chat application built with Express.js, Jvasacript, Socket.i
 - `public/Assets/images`: contains the images used in the application.
 - `public/Assets/js`: contains the javascript scripts for the front end.
 - `node_modules`: contains the modules requires for application.
-- 'action.html`: contains the home page front-end code.
-- 'indexn.html`: contains the video call page front-end code.
-- 
+- `action.html`: contains the home page front-end code.
+- `index.html`: contains the video call page front-end code.
+  
