@@ -24,3 +24,12 @@ A Google meet Video chat application built with Express.js, Jvasacript, Socket.i
 ## Screenshots 
 [visit drive for screenshot]()
 
+## installation 
+Clone the repository, cd into the folder, and then run the following commands
+`npm install`
+After installation run
+`npm start`
+#### And your application is live on `https://localhost:3000/action.html`
+
+
+
