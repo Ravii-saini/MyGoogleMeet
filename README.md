@@ -22,8 +22,7 @@ A Google meet Video chat application built with Express.js, Jvasacript, Socket.i
 - Node.js, Express.js, Socket.io, WebRTC, jquery
 - npm packages 
 
-## Screenshots 
-[visit drive for screenshot](https://drive.google.com/drive/folders/1JZdGhuCFHDY1iE7ex6d4Xr47ThATxEpG?usp=sharing)
+
 
 ## installation 
 Clone the repository, cd into the folder, and then run the following commands
